@@ -1,17 +1,17 @@
 # ARLtoAWVS
-ARL links with AWVS to realize automated scanning and push results
+ARL与AWVS联动，实现自动化扫描并推送结果
 
-### Domain and directories
-Refer to the dirsearch and subDomainsBrute dictionaries
+### 域名字典和目录字典
+参考 dirsearch 和 subDomainsBrute 字典
 
 domain_2w.txt
 
 file_top_2000.txt
 
-replace /opt/ARL/app/dicts/
+替换 /opt/ARL/app/dicts/目录下的文件
 
-### use
-Modify the configuration CONFIG in the script
+### 使用
+修改文件里的配置，改为自己的地址和key。
 
 ```shell
 CONFIG = {
