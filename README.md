@@ -3,8 +3,11 @@ ARL links with AWVS to realize automated scanning and push results
 
 ### Domain and directories
 Refer to the dirsearch and subDomainsBrute dictionaries
+
 domain_2w.txt
+
 file_top_2000.txt
+
 replace /opt/ARL/app/dicts/
 
 ### use
